@@ -2,6 +2,7 @@
 
 - This readme provides an overview of the project's timeline, detailing various tasks, tools, and methodologies used during the development of this project.
 - Link to project [demo video](https://drive.google.com/file/d/1LD1Yc043Xqnxql7EN_-93458FCJx6Anb/view?usp=sharing)
+- The file ms.png was the one used for Visual QnA using LlaVa, it has been uploaded here.
   
 ## Tasks and Tools Overview
 1. **Understanding 10-K Filings and company tickers:**
