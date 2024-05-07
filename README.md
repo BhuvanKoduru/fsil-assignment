@@ -1,9 +1,9 @@
 # General Timeline
 
-This readme provides an overview of the project's timeline, detailing various tasks, tools, and methodologies used during the development of this project.
-Link to project demo video(https://drive.google.com/file/d/1LD1Yc043Xqnxql7EN_-93458FCJx6Anb/view?usp=sharing)
+- This readme provides an overview of the project's timeline, detailing various tasks, tools, and methodologies used during the development of this project.
+- Link to project demo video (https://drive.google.com/file/d/1LD1Yc043Xqnxql7EN_-93458FCJx6Anb/view?usp=sharing)
+  
 ## Tasks and Tools Overview
-
 1. **Understanding 10-K Filings and company tickers:**
    - Watched a [YouTube video](https://www.youtube.com/watch?v=Q0o9S0q0Rr4) to grasp the concept of 10-K filings.
    - Learned about their contents and how to skim through them efficiently.
