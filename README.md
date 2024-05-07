@@ -5,8 +5,9 @@ This readme provides an overview of the project's timeline, detailing various ta
 ## Tasks and Tools Overview
 
 1. **Understanding 10-K Filings:**
-   - Watched a YouTube video to grasp the concept of 10-K filings.
+   - Watched a [YouTube video](https://www.youtube.com/watch?v=Q0o9S0q0Rr4) to grasp the concept of 10-K filings.
    - Learned about their contents and how to skim through them efficiently.
+     
 
 2. **Exploring SEC-EDGAR:**
    - Explored the Securities and Exchange Commission's Electronic Data Gathering, Analysis, and Retrieval system (SEC-EDGAR).
