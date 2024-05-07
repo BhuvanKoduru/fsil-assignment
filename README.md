@@ -1,6 +1,6 @@
 # General Timeline
 
-This readme provides an overview of the project's timeline, detailing various tasks, tools, and methodologies used during its development.
+This readme provides an overview of the project's timeline, detailing various tasks, tools, and methodologies used during the development of this project.
 
 ## Tasks and Tools Overview
 
