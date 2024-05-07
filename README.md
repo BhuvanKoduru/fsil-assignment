@@ -71,6 +71,7 @@ The “download_details” argument was of utmost help, since it gave me html fi
 - How was the trend in the past few years?
 - What are the risk factors of the company?
 - What is the device based split up of sales in an electronics company such as Apple?
+- These insights will help the user make informed decisions, after manual verification, about various aspects such as investments or job opportunities or for a general understanding of the indstry the company is in.
 
 
 
